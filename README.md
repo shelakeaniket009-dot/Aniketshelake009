@@ -57,7 +57,7 @@ To become a professional Robotics Engineer and develop innovative automation sol
 <p>Arduino UNO | HC-SR04 | L298N | DC Motors</p>
 </td>
 <td width="50%">
-<h3>🦾 3DOF Acrylic Robotic Arm</h3>
+<h3> 3DOF Acrylic Robotic Arm</h3>
 <p>Acrylic robotic arm developed using three stepper motors for robotic movement.</p>
 <b>Technologies:</b>
 <p>Stepper Motors | Acrylic Structure | ESP32 (Planned Control)</p>
