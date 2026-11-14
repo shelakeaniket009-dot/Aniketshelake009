@@ -6,11 +6,11 @@ I am a passionate Robotics and AI student interested in Robotics, Embedded Syste
 
 # About Me
 
-* 🎓 Second Year Robotics & AI Student
-* 🤖 Interested in Robotics and Automation
-* 🔧 Working with Arduino and ESP32
-* 💻 Learning C, C++ and Python
-* 🎯 Aspiring Robotics Engineer
+*  Second Year Robotics & AI Student
+*  Interested in Robotics and Automation
+*  Working with Arduino and ESP32
+*  Learning C, C++ and Python
+*  Aspiring Robotics Engineer
 
 # Skills
 
