@@ -44,14 +44,14 @@ Acrylic robotic arm using three stepper motors.
 
 To become a professional Robotics Engineer and develop innovative automation solutions.
 
-- Thanks for visiting my profile## Aniketshelake009
+- Thanks for visiting my profile.
 
 # My Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3>🤖 Obstacle Avoiding Car</h3>
+<h3> Obstacle Avoiding Car</h3>
 <p>Autonomous robot car that detects obstacles and changes direction automatically.</p>
 <b>Technologies:</b>
 <p>Arduino UNO | HC-SR04 | L298N | DC Motors</p>
