@@ -69,6 +69,4 @@ To become a professional Robotics Engineer and develop innovative automation sol
 
 * GitHub: @Aniketshelake009
 
-⸻
-
 Building the Future with Robotics & AI. 🚀
