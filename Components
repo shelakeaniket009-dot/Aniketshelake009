@@ -1,0 +1,33 @@
+#Components Required – Obstacle Avoiding Car
+
+#Hardware Components
+
+#Sr. No.	Component Name	Quantity
+1	Arduino UNO R3	1
+2	L298N Motor Driver Module	1
+3	HC-SR04 Ultrasonic Sensor	1
+4	SG90 Servo Motor	1
+5	12V DC Geared Motors	4
+6	Robot Car Chassis	1
+7	3.7V Li-ion Battery Cells	2
+8	18650 Battery Holder	1
+10	Jumper Wires	1 Set
+11	Robot Wheels	4
+
+#Component Functions
+
+* Arduino UNO: Controls the complete robot.
+* L298N: Controls the speed and direction of DC motors.
+* HC-SR04: Detects obstacles using ultrasonic waves.
+* SG90 Servo: Rotates the ultrasonic sensor left and right.
+* DC Motors: Move the robot car.
+* Battery: Supplies electrical power to the system.
+
+Project Specifications
+
+* Project Name: Obstacle Avoiding Car
+* Controller: Arduino UNO
+* Motor Driver: L298N
+* Obstacle Detection: HC-SR04
+* Sensor Rotation: SG90 Servo Motor
+* Number of Motors: 4
